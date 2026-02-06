@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.db
+*.log
+ffmpeg_path.txt
+real_ffmpeg_path.txt
+ffmpeg_path_utf8.txt
+.env
+downloads/
+temp/
